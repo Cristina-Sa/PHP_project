@@ -16,3 +16,5 @@ Every time you fill in the form with some data and click on subscribe, this data
 > **Note**
 > 
 > **XAMPP**: is a ready-made package (called bundles) that installs all the necessary resources to be able to work with PHP.
+
+![Visualizacion_formulario](https://github.com/Cristina-Sa/PHP_project/assets/125372283/29a4a7e1-22b5-431c-91a8-6dc98886b191)
